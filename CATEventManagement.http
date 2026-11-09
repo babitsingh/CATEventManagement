@@ -1,0 +1,6 @@
+@CATEventManagement_HostAddress = http://localhost:5033
+
+GET {{CATEventManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
